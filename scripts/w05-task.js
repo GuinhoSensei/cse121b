@@ -2,7 +2,7 @@
 
 /* Declare and initialize global variables */
 const templesElement = document.querySelector("#temples");
-var templeList = [];
+templeList = [];
 
 /* async displayTemples Function */
 const displayTemples = (temples) => {
